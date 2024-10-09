@@ -1,0 +1,26 @@
+head {
+    align-content: center;
+}
+
+body {
+    height: 100vh;
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    background: rgb(43, 182, 190);
+    background: linear-gradient(180deg, rgba(43, 182, 190, 1) 0%, rgba(73, 8, 158, 1) 100%) no-repeat;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+ul a {
+    color: #fff;
+}
+
+.avatar {
+    border-radius: 50%;
+    height: 96px;
+    width: 96px;
+}
